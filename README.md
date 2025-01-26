@@ -1,5 +1,7 @@
 # Simple bitmap encoder
 
+Zig is so awesome.
+
 This project has many issues that need to be fixed.
 
 ## Credit
